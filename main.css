@@ -29,6 +29,7 @@ body {
   box-shadow: 3px 5px #95744c;
   background-color: #c78389;
   padding: 5px 20px;
+  text-decoration: none;
 }
 
 .donasi:active {
